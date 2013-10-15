@@ -268,7 +268,8 @@ void uncaughtExceptionHandler(NSException *exception) {
 -(void) setupRootViewController {
 	//add root view controller
 	myRootViewController = [[ThomasRootViewController alloc] initWithNibName:@"ThomasRootViewController" bundle:nil];
-	[window addSubview:myRootViewController.view];
+	//[window addSubview:myRootViewController.view];
+    [window setRootViewController:myRootViewController];
 }
 #pragma mark -
 #pragma mark Getters and Setters
