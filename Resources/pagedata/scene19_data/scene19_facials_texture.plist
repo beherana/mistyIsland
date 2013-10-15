@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>scene19_dash_eye1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{167, 384}, {50, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_dash_eye2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{165, 243}, {50, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_dash_eye3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{63, 387}, {50, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_dash_eye4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{115, 387}, {50, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_dash_eye5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{124, 316}, {50, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_dash_forehead1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {59, 69}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{59, 69}</string>
+			<key>spriteSourceSize</key>
+			<string>{59, 69}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 316}, {59, 69}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_dash_forehead2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {59, 69}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{59, 69}</string>
+			<key>spriteSourceSize</key>
+			<string>{59, 69}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 387}, {59, 69}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_dash_forehead3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {59, 69}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{59, 69}</string>
+			<key>spriteSourceSize</key>
+			<string>{59, 69}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{63, 316}, {59, 69}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_thomas_eyes1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {125, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{125, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{125, 61}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{217, 243}, {125, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_thomas_eyes2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {125, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{125, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{125, 61}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{219, 374}, {125, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_thomas_eyes3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {125, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{125, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{125, 61}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{344, 243}, {125, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_thomas_eyes4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {131, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{131, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{131, 61}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{176, 311}, {131, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_thomas_forehead1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {161, 93}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{161, 93}</string>
+			<key>spriteSourceSize</key>
+			<string>{161, 93}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{165, 2}, {161, 93}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_thomas_forehead2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {161, 93}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{161, 93}</string>
+			<key>spriteSourceSize</key>
+			<string>{161, 93}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {161, 93}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_thomas_forehead3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {161, 93}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{161, 93}</string>
+			<key>spriteSourceSize</key>
+			<string>{161, 93}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{328, 2}, {161, 93}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_thomas_mouth1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {161, 71}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{161, 71}</string>
+			<key>spriteSourceSize</key>
+			<string>{161, 71}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 170}, {161, 71}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_thomas_mouth2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {161, 71}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{161, 71}</string>
+			<key>spriteSourceSize</key>
+			<string>{161, 71}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{328, 97}, {161, 71}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_thomas_mouth3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {161, 71}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{161, 71}</string>
+			<key>spriteSourceSize</key>
+			<string>{161, 71}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{165, 97}, {161, 71}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_thomas_mouth4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {161, 71}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{161, 71}</string>
+			<key>spriteSourceSize</key>
+			<string>{161, 71}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 243}, {161, 71}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_thomas_mouth5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {161, 71}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{161, 71}</string>
+			<key>spriteSourceSize</key>
+			<string>{161, 71}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{328, 170}, {161, 71}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_thomas_mouth6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {161, 71}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{161, 71}</string>
+			<key>spriteSourceSize</key>
+			<string>{161, 71}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 97}, {161, 71}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene19_thomas_mouth7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {161, 71}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{161, 71}</string>
+			<key>spriteSourceSize</key>
+			<string>{161, 71}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{165, 170}, {161, 71}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>size</key>
+		<string>{512, 512}</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,163 @@
+{
+	data = {
+		respawnObjects = YES;
+		hasTop = YES;
+		hasBottom = YES;
+		hasLeftWall = YES;
+		hasRightWall = YES;
+		gravityX = 0;
+		gravityY = "-2";
+		boundingBox = "{{0, 68}, {1024, 700}}";
+		useAccelerometer = YES;
+		definitions = (
+			{
+				spriteOffset = "{0,0}";
+				preventRotation = NO;
+				image = "scene4_stock1.png";
+				width = 38;
+				height = 283;
+				density = 1;
+				friction = "0.2";
+				restitution = "0.8";
+				canGrab = YES;
+			},
+			{
+				image = "scene4_stock2.png";
+				width = 38;
+				height = 297;
+				density = "0.2";
+				friction = "0.2";
+				restitution = "0.5";
+				canGrab = YES;
+			},
+			{
+				image = "scene4_stock3.png";
+				width = 42;
+				height = 340;
+				density = "0.2";
+				friction = "0.2";
+				restitution = "0.5";
+				canGrab = YES;
+			},
+			{
+				image = "scene4_fence1.png";
+				width = 30;
+				height = 80;
+				density = "0.2";
+				friction = "0.2";
+				restitution = "0.5";
+				canGrab = YES;
+			},
+			{
+				image = "scene4_fence2.png";
+				width = 30;
+				height = 80;
+				density = "0.2";
+				friction = "0.2";
+				restitution = "0.5";
+				canGrab = YES;
+			},
+			{
+				image = "scene4_fence3.png";
+				width = 10;
+				height = 100;
+				density = "0.2";
+				friction = "0.2";
+				restitution = "0.5";
+				canGrab = YES;
+			},
+			{
+				image = "scene4_fence4.png";
+				width = 25;
+				height = 80;
+				density = "0.2";
+				friction = "0.2";
+				restitution = "0.5";
+				canGrab = YES;
+			},
+			{
+				image = "scene4_fence5.png";
+				width = 20;
+				height = 62;
+				density = "0.2";
+				friction = "0.2";
+				restitution = "0.5";
+				canGrab = YES;
+			},
+		);
+	};
+	objects = (
+		{
+			x = 277;
+			y = 446;
+			rotation = "-30";
+			impulseX = 1;
+			impulseY = "-1";
+			spin = 1;
+			definition = 0;
+		},
+		{
+			x = 512;
+			y = 397;
+			rotation = "-45";
+			impulseX = 1;
+			impulseY = "-1";
+			spin = 1;
+			definition = 1;
+		},
+		{
+			x = 571;
+			y = 264;
+			rotation = "-60";
+			impulseX = 1;
+			impulseY = "-1";
+			spin = 1;
+			definition = 2;
+		},
+		{
+			x = 244;
+			y = 462;
+			rotation = 0;
+			impulseX = 1;
+			impulseY = 1;
+			spin = 0;
+			definition = 3;
+		},
+		{
+			x = 479;
+			y = 427;
+			rotation = 1;
+			impulseX = 1;
+			impulseY = 1;
+			spin = 0;
+			definition = 4;
+		},
+		{
+			x = 479;
+			y = 500;
+			rotation = 2;
+			impulseX = 1;
+			impulseY = 1;
+			spin = 0;
+			definition = 5;
+		},
+		{
+			x = 558;
+			y = 480;
+			rotation = 4;
+			impulseX = 1;
+			impulseY = 1;
+			spin = 0;
+			definition = 6;
+		},
+		{
+			x = 598;
+			y = 410;
+			rotation = 2;
+			impulseX = 1;
+			impulseY = 1;
+			spin = 0;
+			definition = 7;
+		},
+	);
+}

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>scene24_dog1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 5}, {44, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{44, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{46, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {44, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene24_dog2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 7}, {44, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{44, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{46, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{46, 42}, {44, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene24_dog3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 5}, {44, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{44, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{46, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{48, 2}, {44, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene24_dog4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 3}, {42, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -1}</string>
+			<key>spriteSize</key>
+			<string>{42, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{46, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 42}, {42, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene24_dog5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 2}, {42, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -0}</string>
+			<key>spriteSize</key>
+			<string>{42, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{46, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 84}, {42, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>size</key>
+		<string>{128, 128}</string>
+	</dict>
+</dict>
+</plist>

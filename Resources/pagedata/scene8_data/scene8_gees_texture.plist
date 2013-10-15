@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>scene8_gees1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 1}, {123, 121}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 5}</string>
+			<key>spriteSize</key>
+			<string>{123, 121}</string>
+			<key>spriteSourceSize</key>
+			<string>{125, 133}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{121, 0}, {123, 121}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene8_gees2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 8}, {121, 125}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -4}</string>
+			<key>spriteSize</key>
+			<string>{121, 125}</string>
+			<key>spriteSourceSize</key>
+			<string>{125, 133}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {121, 125}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene8_gees3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 3}, {125, 111}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 8}</string>
+			<key>spriteSize</key>
+			<string>{125, 111}</string>
+			<key>spriteSourceSize</key>
+			<string>{125, 133}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{244, 0}, {125, 111}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>size</key>
+		<string>{512, 128}</string>
+	</dict>
+</dict>
+</plist>

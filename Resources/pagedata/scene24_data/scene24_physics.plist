@@ -1,0 +1,81 @@
+{
+	data = {
+		respawnObjects = YES;
+		hasTop = NO;
+		hasBottom = NO;
+		hasLeftWall = YES;
+		hasRightWall = YES;
+		gravityX = 0;
+		gravityY = "0.1";
+		boundingBox = "{{0, 60}, {1024, 700}}";
+		useAccelerometer = NO;
+		definitions = (
+			{
+				preventRotation = YES;
+				image = "scene24_ballons3.png";
+				width = 60;
+				height = 140;
+				density = 10;
+				friction = 20;
+				restitution = 1;
+				canGrab = NO;
+			},
+		);
+	};
+	objects = (
+		{
+			x = 117;
+			y = "-120";
+			rotation = 0;
+			impulseX = 1;
+			impulseY = "0.2";
+			spin = "0.01";
+			definition = 0;
+		},
+		{
+			x = 284;
+			y = "-80";
+			rotation = 0;
+			impulseX = 1;
+			impulseY = "0.2";
+			spin = 1;
+			definition = 0;
+		},
+		{
+			x = 453;
+			y = "-100";
+			rotation = 0;
+			impulseX = 0;
+			impulseY = "0.2";
+			spin = 1;
+			definition = 0;
+		},
+		{
+			x = 619;
+			y = "-100";
+			rotation = 0;
+			impulseX = "-1";
+			impulseY = "0.2";
+			spin = 1;
+			definition = 0;
+		},
+		{
+			x = 782;
+			y = "-100";
+			rotation = 0;
+			impulseX = 0;
+			impulseY = "0.2";
+			spin = 1;
+			definition = 0;
+		},
+		{
+			x = 940;
+			y = "-100";
+			rotation = 0;
+			impulseX = "-1";
+			impulseY = "0.2";
+			spin = 1;
+			definition = 0;
+		},
+	);
+}

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>scene18_thomas_eyes_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {114, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{114, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 58}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{118, 2}, {114, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene18_thomas_eyes_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {114, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{114, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 58}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{118, 62}, {114, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene18_thomas_eyes_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {114, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{114, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 58}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{234, 2}, {114, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene18_thomas_eyes_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {114, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{114, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 58}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 186}, {114, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene18_thomas_eyes_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {114, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{114, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 58}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 66}, {114, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene18_thomas_eyes_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {114, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{114, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 58}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{118, 122}, {114, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene18_thomas_eyes_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {114, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{114, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 58}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{118, 182}, {114, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene18_thomas_eyes_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {114, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{114, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 62}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {114, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene18_thomas_eyes_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {114, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{114, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 58}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 126}, {114, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>size</key>
+		<string>{512, 256}</string>
+	</dict>
+</dict>
+</plist>

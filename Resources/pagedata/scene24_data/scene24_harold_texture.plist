@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>scene24_harold_eyes1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {26, 17}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{26, 17}</string>
+			<key>spriteSourceSize</key>
+			<string>{26, 17}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{410, 2}, {26, 17}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene24_harold_eyes2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {26, 17}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{26, 17}</string>
+			<key>spriteSourceSize</key>
+			<string>{26, 17}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{438, 2}, {26, 17}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene24_harold_eyes3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {26, 17}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{26, 17}</string>
+			<key>spriteSourceSize</key>
+			<string>{26, 17}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{466, 2}, {26, 17}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene24_harold_mainrotor1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {202, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{202, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{202, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {202, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene24_harold_mainrotor2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {202, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{202, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{202, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{206, 2}, {202, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene24_harold_mainrotor3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {202, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{202, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{202, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 87}, {202, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene24_harold_mainrotor4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {202, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{202, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{202, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{206, 78}, {202, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene24_harold_mainrotor5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {202, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{202, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{202, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 163}, {202, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene24_harold_mouth1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {26, 17}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{26, 17}</string>
+			<key>spriteSourceSize</key>
+			<string>{26, 17}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{410, 21}, {26, 17}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene24_harold_mouth2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {26, 17}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{26, 17}</string>
+			<key>spriteSourceSize</key>
+			<string>{26, 17}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{438, 21}, {26, 17}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene24_harold_mouth3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {26, 17}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{26, 17}</string>
+			<key>spriteSourceSize</key>
+			<string>{26, 17}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{466, 21}, {26, 17}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene24_harold_tailrotor1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {20, 45}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 45}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 45}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{410, 40}, {20, 45}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene24_harold_tailrotor2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {20, 45}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 45}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 45}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{432, 40}, {20, 45}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene24_harold_tailrotor3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {20, 45}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 45}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 45}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{454, 40}, {20, 45}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene24_harold_tailrotor4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {20, 45}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 45}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 45}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{476, 40}, {20, 45}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>size</key>
+		<string>{512, 256}</string>
+	</dict>
+</dict>
+</plist>

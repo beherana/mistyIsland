@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>scene11_track1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {507, 116}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{507, 116}</string>
+			<key>spriteSourceSize</key>
+			<string>{507, 116}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1068, 742}, {507, 116}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene11_track2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {507, 116}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{507, 116}</string>
+			<key>spriteSourceSize</key>
+			<string>{507, 116}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1068, 626}, {507, 116}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene11_track3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {507, 116}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{507, 116}</string>
+			<key>spriteSourceSize</key>
+			<string>{507, 116}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1068, 510}, {507, 116}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene_11_wheels1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {534, 255}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{534, 255}</string>
+			<key>spriteSourceSize</key>
+			<string>{534, 255}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1068, 255}, {534, 255}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene_11_wheels10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {534, 255}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{534, 255}</string>
+			<key>spriteSourceSize</key>
+			<string>{534, 255}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{534, 765}, {534, 255}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene_11_wheels2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {534, 255}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{534, 255}</string>
+			<key>spriteSourceSize</key>
+			<string>{534, 255}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{534, 510}, {534, 255}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene_11_wheels3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {534, 255}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{534, 255}</string>
+			<key>spriteSourceSize</key>
+			<string>{534, 255}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{534, 255}, {534, 255}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene_11_wheels4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {534, 255}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{534, 255}</string>
+			<key>spriteSourceSize</key>
+			<string>{534, 255}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1068, 0}, {534, 255}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene_11_wheels5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {534, 255}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{534, 255}</string>
+			<key>spriteSourceSize</key>
+			<string>{534, 255}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{534, 0}, {534, 255}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene_11_wheels6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {534, 255}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{534, 255}</string>
+			<key>spriteSourceSize</key>
+			<string>{534, 255}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 765}, {534, 255}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene_11_wheels7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {534, 255}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{534, 255}</string>
+			<key>spriteSourceSize</key>
+			<string>{534, 255}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 510}, {534, 255}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene_11_wheels8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {534, 255}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{534, 255}</string>
+			<key>spriteSourceSize</key>
+			<string>{534, 255}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 255}, {534, 255}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>scene_11_wheels9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {534, 255}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{534, 255}</string>
+			<key>spriteSourceSize</key>
+			<string>{534, 255}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {534, 255}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>size</key>
+		<string>{2048, 1024}</string>
+	</dict>
+</dict>
+</plist>

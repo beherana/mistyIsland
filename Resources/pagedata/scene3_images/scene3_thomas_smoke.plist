@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0">
+  <dict>
+    <key>name</key>
+    <string>instanceName</string>
+    <key>z</key>
+    <integer>6</integer>
+    <key>smoke</key>
+    <true/>
+    <key>source</key>
+    <dict>
+      <key>name</key>
+      <string>bmpName</string>
+      <key>x</key>
+      <integer>0</integer>
+      <key>y</key>
+      <integer>0</integer>
+      <key>p0x</key>
+      <integer>318</integer>
+      <key>p0y</key>
+      <integer>418</integer>
+      <key>p1x</key>
+      <integer>313</integer>
+      <key>p1y</key>
+      <integer>458</integer>
+      <key>p2x</key>
+      <integer>267</integer>
+      <key>p2y</key>
+      <integer>463</integer>
+      <key>p3x</key>
+      <integer>231</integer>
+      <key>p3y</key>
+      <integer>490</integer>
+      <key>startSize</key>
+      <integer>34</integer>
+      <key>endSize</key>
+      <integer>100</integer>
+      <key>endSizeVar</key>
+      <integer>100</integer>
+    </dict>
+  </dict>
+</plist>

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>scene23_topham_body_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {144, 221}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{146, 223}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{298, 2}, {144, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene23_topham_body_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {146, 221}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{146, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{146, 223}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {146, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene23_topham_body_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {146, 221}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{146, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{146, 223}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{150, 2}, {146, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene23_topham_body_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 1}, {142, 221}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{142, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{146, 223}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 225}, {142, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene23_topham_body_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 1}, {140, 221}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{140, 221}</string>
+			<key>spriteSourceSize</key>
+			<string>{146, 223}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{146, 225}, {140, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene23_topham_head_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 4}, {48, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{48, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 69}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{340, 317}, {48, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene23_topham_head_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 5}, {50, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{50, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 69}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{288, 317}, {50, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene23_topham_head_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 5}, {50, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{50, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 69}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{444, 2}, {50, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene23_topham_head_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 5}, {50, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{50, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 69}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{340, 254}, {50, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene23_topham_head_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 5}, {50, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{50, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 69}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{444, 191}, {50, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene23_topham_head_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 5}, {50, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{50, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 69}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{444, 65}, {50, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene23_topham_head_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 5}, {50, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{50, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 69}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{288, 443}, {50, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene23_topham_head_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 5}, {50, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{50, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 69}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{288, 380}, {50, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene23_topham_head_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 5}, {50, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{50, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 69}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{288, 254}, {50, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene23_topham_head_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 5}, {50, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{50, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 69}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{444, 128}, {50, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>size</key>
+		<string>{512, 512}</string>
+	</dict>
+</dict>
+</plist>

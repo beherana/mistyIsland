@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>scene13_eyes_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {63, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{63, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{63, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 74}, {63, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene13_eyes_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {63, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{63, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{63, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{211, 74}, {63, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene13_eyes_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {63, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{63, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{63, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 126}, {63, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene13_eyes_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {63, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{63, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{63, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{67, 74}, {63, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene13_eyes_blink.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {63, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{63, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{63, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{132, 118}, {63, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene13_forehead_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {74, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{74, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{74, 70}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{78, 2}, {74, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene13_forehead_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {74, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{74, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{74, 70}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {74, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene13_forehead_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {74, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{74, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{74, 70}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{154, 2}, {74, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene13_forehead_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {74, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{74, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{74, 70}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{230, 2}, {74, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene13_mouth_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {77, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{77, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{77, 42}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{306, 46}, {77, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene13_mouth_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {77, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{77, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{77, 42}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{385, 2}, {77, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene13_mouth_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {77, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{77, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{77, 42}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{132, 74}, {77, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene13_mouth_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {77, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{77, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{77, 42}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{385, 46}, {77, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene13_mouth_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {77, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{77, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{77, 42}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{306, 2}, {77, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>size</key>
+		<string>{512, 256}</string>
+	</dict>
+</dict>
+</plist>

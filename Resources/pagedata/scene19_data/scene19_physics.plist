@@ -1,0 +1,262 @@
+{
+	data = {
+		respawnObjects = YES;
+		hasTop = NO;
+		hasBottom = NO;
+		hasLeftWall = YES;
+		hasRightWall = YES;
+		gravityX = "-1";
+		gravityY = "-2";
+		boundingBox = "{{0, 33}, {1024, 742}}";
+		useAccelerometer = NO;
+		definitions = (
+			{
+				spriteOffset = "{0,0}";
+				preventRotation = NO;
+				image = "scene19_rock1.png";
+				width = 71;
+				height = 65;
+				density = 1;
+				friction = "0.2";
+				restitution = "0.8";
+				canGrab = YES;
+			},
+			{
+				image = "scene19_rock2.png";
+				width = 42;
+				height = 32;
+				density = "0.2";
+				friction = "0.2";
+				restitution = "0.8";
+				canGrab = YES;
+			},
+			{
+				image = "scene19_rock3.png";
+				width = 33;
+				height = 19;
+				density = "0.2";
+				friction = "0.2";
+				restitution = "0.5";
+				canGrab = YES;
+			},
+			{
+				image = "scene19_rock4.png";
+				width = 91;
+				height = 73;
+				density = "0.2";
+				friction = "0.2";
+				restitution = "0.5";
+				canGrab = YES;
+			},
+			{
+				image = "scene19_rock5.png";
+				width = 63;
+				height = 52;
+				density = "0.2";
+				friction = "0.2";
+				restitution = "0.5";
+				canGrab = YES;
+			},
+			{
+				image = "scene19_rock6.png";
+				width = 90;
+				height = 102;
+				density = "0.2";
+				friction = "0.2";
+				restitution = "0.5";
+				canGrab = YES;
+			},
+			{
+				image = "scene19_rock7.png";
+				width = 99;
+				height = 86;
+				density = "0.2";
+				friction = "0.2";
+				restitution = "0.5";
+				canGrab = YES;
+			},
+			{
+				image = "scene19_rock8.png";
+				width = 129;
+				height = 121;
+				density = "0.2";
+				friction = "0.2";
+				restitution = "0.5";
+				canGrab = YES;
+			},
+			{
+				image = "scene19_rock9.png";
+				width = 135;
+				height = 118;
+				density = "0.2";
+				friction = "0.2";
+				restitution = "0.5";
+				canGrab = YES;
+			},
+		);
+	};
+	objects = (
+		{
+			x = 100;
+			y = 820;
+			rotation = "-30";
+			impulseX = 1;
+			impulseY = "-1";
+			spin = 1;
+			definition = 0;
+		},
+		{
+			x = 150;
+			y = 830;
+			rotation = "-45";
+			impulseX = 1;
+			impulseY = "-1";
+			spin = 1;
+			definition = 1;
+		},
+		{
+			x = 200;
+			y = 850;
+			rotation = "-60";
+			impulseX = 1;
+			impulseY = "-1";
+			spin = 1;
+			definition = 2;
+		},
+		{
+			x = 300;
+			y = 900;
+			rotation = "-87";
+			impulseX = 1;
+			impulseY = 1;
+			spin = 9;
+			definition = 3;
+		},
+		{
+			x = 400;
+			y = 950;
+			rotation = "-120";
+			impulseX = 1;
+			impulseY = 1;
+			spin = 8;
+			definition = 4;
+		},
+		{
+			x = 500;
+			y = 1000;
+			rotation = "-43";
+			impulseX = 1;
+			impulseY = 1;
+			spin = 6;
+			definition = 5;
+		},
+		{
+			x = 550;
+			y = 800;
+			rotation = 23;
+			impulseX = 1;
+			impulseY = 1;
+			spin = 4;
+			definition = 6;
+		},
+		{
+			x = 600;
+			y = 1100;
+			rotation = 42;
+			impulseX = 1;
+			impulseY = 1;
+			spin = 5;
+			definition = 7;
+		},
+		{
+			x = 650;
+			y = 850;
+			rotation = 42;
+			impulseX = 1;
+			impulseY = 1;
+			spin = 9;
+			definition = 8;
+		},
+		{
+			x = 100;
+			y = 820;
+			rotation = "-30";
+			impulseX = 1;
+			impulseY = "-1";
+			spin = 1;
+			definition = 8;
+		},
+		{
+			x = 150;
+			y = 830;
+			rotation = "-45";
+			impulseX = 1;
+			impulseY = "-1";
+			spin = 1;
+			definition = 7;
+		},
+		{
+			x = 200;
+			y = 850;
+			rotation = "-60";
+			impulseX = 1;
+			impulseY = "-1";
+			spin = 1;
+			definition = 6;
+		},
+		{
+			x = 300;
+			y = 900;
+			rotation = "-87";
+			impulseX = 1;
+			impulseY = 1;
+			spin = 9;
+			definition = 5;
+		},
+		{
+			x = 400;
+			y = 950;
+			rotation = "-120";
+			impulseX = 1;
+			impulseY = 1;
+			spin = 8;
+			definition = 4;
+		},
+		{
+			x = 500;
+			y = 1000;
+			rotation = "-43";
+			impulseX = 1;
+			impulseY = 1;
+			spin = 6;
+			definition = 3;
+		},
+		{
+			x = 550;
+			y = 800;
+			rotation = 23;
+			impulseX = 1;
+			impulseY = 1;
+			spin = 4;
+			definition = 2;
+		},
+		{
+			x = 600;
+			y = 1100;
+			rotation = 42;
+			impulseX = 1;
+			impulseY = 1;
+			spin = 5;
+			definition = 1;
+		},
+		{
+			x = 650;
+			y = 850;
+			rotation = 42;
+			impulseX = 1;
+			impulseY = 1;
+			spin = 9;
+			definition = 0;
+		},
+	);
+}

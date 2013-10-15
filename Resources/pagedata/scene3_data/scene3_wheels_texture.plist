@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Scen3_Thomas_Wheels1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 5}, {366, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -2}</string>
+			<key>spriteSize</key>
+			<string>{366, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{374, 150}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1120, 2}, {366, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen3_Thomas_Wheels10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 5}, {370, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{370, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{374, 150}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{376, 2}, {370, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen3_Thomas_Wheels2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 5}, {360, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -2}</string>
+			<key>spriteSize</key>
+			<string>{360, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{374, 150}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{726, 148}, {360, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen3_Thomas_Wheels3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 5}, {360, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -2}</string>
+			<key>spriteSize</key>
+			<string>{360, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{374, 150}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{364, 148}, {360, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen3_Thomas_Wheels4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 5}, {360, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -2}</string>
+			<key>spriteSize</key>
+			<string>{360, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{374, 150}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1450, 148}, {360, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen3_Thomas_Wheels5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 5}, {360, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -2}</string>
+			<key>spriteSize</key>
+			<string>{360, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{374, 150}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1088, 148}, {360, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen3_Thomas_Wheels6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 5}, {360, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -2}</string>
+			<key>spriteSize</key>
+			<string>{360, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{374, 150}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 148}, {360, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen3_Thomas_Wheels7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 5}, {362, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -2}</string>
+			<key>spriteSize</key>
+			<string>{362, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{374, 150}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1488, 2}, {362, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen3_Thomas_Wheels8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 5}, {370, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{370, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{374, 150}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{748, 2}, {370, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen3_Thomas_Wheels9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 5}, {372, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{372, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{374, 150}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {372, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1487, 546}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{596, 798}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{893, 798}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{299, 420}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1487, 294}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1190, 546}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{596, 420}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1487, 798}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{299, 798}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels18.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 798}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels19.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{893, 420}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{893, 546}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels20.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1190, 294}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels21.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{299, 294}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels22.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{596, 672}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels23.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{893, 294}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels24.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1487, 672}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels25.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1190, 420}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels26.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{299, 672}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels27.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{893, 672}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels28.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{596, 546}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels29.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{299, 546}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 294}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels30.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1487, 420}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 546}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{596, 294}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 420}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 672}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1190, 672}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Scen_3_Wheels9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{295, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1190, 798}, {295, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>size</key>
+		<string>{2048, 1024}</string>
+	</dict>
+</dict>
+</plist>

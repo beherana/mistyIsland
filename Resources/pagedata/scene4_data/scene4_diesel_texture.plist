@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>scene4_diesel_eye1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {68, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{68, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{353, 44}, {68, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene4_diesel_eye2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {68, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{68, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{423, 44}, {68, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene4_diesel_eye3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {68, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{68, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{423, 2}, {68, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene4_diesel_eye4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {68, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{68, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{353, 2}, {68, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene4_diesel_forehead1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {115, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{115, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{115, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{119, 2}, {115, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene4_diesel_forehead2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {115, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{115, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{115, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {115, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene4_diesel_forehead3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {115, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{115, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{115, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 92}, {115, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene4_diesel_mouth1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {115, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{115, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{115, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 182}, {115, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene4_diesel_mouth2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {115, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{115, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{115, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{119, 92}, {115, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene4_diesel_mouth3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {115, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{115, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{115, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{119, 160}, {115, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene4_diesel_mouth4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {115, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{115, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{115, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{236, 2}, {115, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>size</key>
+		<string>{512, 256}</string>
+	</dict>
+</dict>
+</plist>

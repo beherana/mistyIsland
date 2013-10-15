@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>scene3_percy_eyes_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {138, 63}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{138, 63}</string>
+			<key>spriteSourceSize</key>
+			<string>{138, 63}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{624, 74}, {138, 63}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_percy_eyes_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {138, 63}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{138, 63}</string>
+			<key>spriteSourceSize</key>
+			<string>{138, 63}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{778, 2}, {138, 63}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_percy_eyes_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {138, 63}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{138, 63}</string>
+			<key>spriteSourceSize</key>
+			<string>{138, 63}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{778, 67}, {138, 63}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_percy_eyes_blink.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {138, 63}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{138, 63}</string>
+			<key>spriteSourceSize</key>
+			<string>{138, 63}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{764, 132}, {138, 63}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_percy_forehead_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {154, 85}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{154, 85}</string>
+			<key>spriteSourceSize</key>
+			<string>{154, 85}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{300, 338}, {154, 85}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_percy_forehead_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {154, 85}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{154, 85}</string>
+			<key>spriteSourceSize</key>
+			<string>{154, 85}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{312, 425}, {154, 85}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_percy_mouth_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {154, 79}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{154, 79}</string>
+			<key>spriteSourceSize</key>
+			<string>{154, 79}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{156, 430}, {154, 79}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_percy_mouth_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {154, 79}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{154, 79}</string>
+			<key>spriteSourceSize</key>
+			<string>{154, 79}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{456, 338}, {154, 79}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_percy_mouth_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {154, 79}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{154, 79}</string>
+			<key>spriteSourceSize</key>
+			<string>{154, 79}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{468, 419}, {154, 79}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_thomas_eyes_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {125, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{125, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{125, 61}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{594, 265}, {125, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_thomas_eyes_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {125, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{125, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{125, 61}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{594, 202}, {125, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_thomas_eyes_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {125, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{125, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{125, 61}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{612, 328}, {125, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_thomas_eyes_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {125, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{125, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{125, 61}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{624, 139}, {125, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_thomas_forehead_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {147, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{147, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{147, 90}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 340}, {147, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_thomas_forehead_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {147, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{147, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{147, 90}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{151, 338}, {147, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_thomas_mouth_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {152, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{152, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{152, 70}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{624, 2}, {152, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_thomas_mouth_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {152, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{152, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{152, 70}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 432}, {152, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_topham1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {118, 336}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{118, 336}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 336}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {118, 336}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_topham2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {116, 334}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{116, 334}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 336}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{358, 2}, {116, 334}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_topham3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {116, 334}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{116, 334}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 336}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{240, 2}, {116, 334}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_topham4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {116, 334}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{116, 334}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 336}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{122, 2}, {116, 334}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene3_topham5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {116, 334}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{116, 334}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 336}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{476, 2}, {116, 334}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>size</key>
+		<string>{1024, 512}</string>
+	</dict>
+</dict>
+</plist>

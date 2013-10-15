@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>scene12_dash_eye1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {23, 17}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{23, 17}</string>
+			<key>spriteSourceSize</key>
+			<string>{23, 17}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{27, 107}, {23, 17}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene12_dash_eye2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {23, 17}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{23, 17}</string>
+			<key>spriteSourceSize</key>
+			<string>{23, 17}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 107}, {23, 17}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene12_dash_eye3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {23, 17}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{23, 17}</string>
+			<key>spriteSourceSize</key>
+			<string>{23, 17}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{69, 77}, {23, 17}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene12_dash_eye4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {23, 17}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{23, 17}</string>
+			<key>spriteSourceSize</key>
+			<string>{23, 17}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{94, 77}, {23, 17}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene12_dash_forehead1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {31, 33}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{31, 33}</string>
+			<key>spriteSourceSize</key>
+			<string>{31, 33}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {31, 33}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene12_dash_forehead2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {31, 33}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{31, 33}</string>
+			<key>spriteSourceSize</key>
+			<string>{31, 33}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 37}, {31, 33}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene12_dash_forehead3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {31, 33}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{31, 33}</string>
+			<key>spriteSourceSize</key>
+			<string>{31, 33}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 72}, {31, 33}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene12_dash_mouth1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 23}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 23}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 23}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{86, 27}, {32, 23}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene12_dash_mouth2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 23}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 23}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 23}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{86, 2}, {32, 23}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene12_dash_mouth3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 23}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 23}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 23}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{35, 77}, {32, 23}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene12_dash_mouth4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 23}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 23}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 23}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{52, 2}, {32, 23}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene12_dash_mouth5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 23}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 23}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 23}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{86, 52}, {32, 23}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene12_dash_mouth6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 23}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 23}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 23}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{52, 102}, {32, 23}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene12_dash_mouth7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 23}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 23}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 23}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{52, 27}, {32, 23}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>scene12_dash_mouth8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 23}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 23}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 23}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{35, 52}, {32, 23}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>size</key>
+		<string>{128, 128}</string>
+	</dict>
+</dict>
+</plist>
